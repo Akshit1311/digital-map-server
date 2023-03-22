@@ -10,8 +10,8 @@
     "static/js/3.6cd33249.chunk.js": "/digital-map/static/js/3.6cd33249.chunk.js",
     "static/js/3.6cd33249.chunk.js.map": "/digital-map/static/js/3.6cd33249.chunk.js.map",
     "main.css": "/digital-map/static/css/main.2ea0f3fe.chunk.css",
-    "main.js": "/digital-map/static/js/main.cbb48b22.chunk.js",
-    "main.js.map": "/digital-map/static/js/main.cbb48b22.chunk.js.map",
+    "main.js": "/digital-map/static/js/main.da915309.chunk.js",
+    "main.js.map": "/digital-map/static/js/main.da915309.chunk.js.map",
     "runtime-main.js": "/digital-map/static/js/runtime-main.c441cc6a.js",
     "runtime-main.js.map": "/digital-map/static/js/runtime-main.c441cc6a.js.map",
     "static/js/6.a4298b92.chunk.js": "/digital-map/static/js/6.a4298b92.chunk.js",
@@ -61,12 +61,12 @@
     "static/js/3.6cd33249.chunk.js.LICENSE.txt": "/digital-map/static/js/3.6cd33249.chunk.js.LICENSE.txt",
     "static/js/6.a4298b92.chunk.js.LICENSE.txt": "/digital-map/static/js/6.a4298b92.chunk.js.LICENSE.txt",
     "static/js/8.72ba436a.chunk.js.LICENSE.txt": "/digital-map/static/js/8.72ba436a.chunk.js.LICENSE.txt",
-    "static/js/main.cbb48b22.chunk.js.LICENSE.txt": "/digital-map/static/js/main.cbb48b22.chunk.js.LICENSE.txt"
+    "static/js/main.da915309.chunk.js.LICENSE.txt": "/digital-map/static/js/main.da915309.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c441cc6a.js",
     "static/js/6.a4298b92.chunk.js",
     "static/css/main.2ea0f3fe.chunk.css",
-    "static/js/main.cbb48b22.chunk.js"
+    "static/js/main.da915309.chunk.js"
   ]
 }
